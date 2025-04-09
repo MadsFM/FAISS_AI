@@ -1,0 +1,1 @@
+Artificial intelligence (AI) research focuses on creating machines that can perform tasks requiring human intelligence. Key areas include machine learning, neural networks, and natural language processing. AI has applications in healthcare, finance, and automation.

@@ -1,0 +1,6 @@
+docker run --name AI_Faiss \
+-e POSTGRES_USER=user \
+-e POSTGRES_PASSWORD=pass123 \
+-e POSTGRES_DB=rag_faiss \
+-p 5432:5432 \ 
+-d postgres
